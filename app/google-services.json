@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549270856990",
+    "project_id": "bijal-practical",
+    "storage_bucket": "bijal-practical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549270856990:android:a35baa432646994b2dd50f",
+        "android_client_info": {
+          "package_name": "com.fintech.bijalpractical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgRjObnKhQFSL3JLWpPBz99PLfDROp1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
